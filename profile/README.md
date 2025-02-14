@@ -13,4 +13,4 @@ Somos una empresa especializada en construcción de soluciones de software. Ayud
 
 
 ## Paleta de colores
-![Tenor](https://github.com/user-attachments/assets/6600aaaa-6664-438f-a6a6-917986678331)
+<img src="https://github.com/user-attachments/assets/6600aaaa-6664-438f-a6a6-917986678331" height=200 />
