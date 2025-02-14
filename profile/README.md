@@ -1,13 +1,16 @@
 # Apantli
-## Adaptabilidad en cada gota
+*Adaptabilidad en cada gota*
 
-<!--
+<img src="https://github.com/user-attachments/assets/6463f2f7-2745-438a-8b1c-4e57896ff054" height=200 />
 
-**Here are some ideas to get you started:**
+## Sobre nosotros
+Somos una empresa especializada en construcción de soluciones de software. Ayudamos a nuestros clientes poner a flote sus ideas, al sumergirnos en sus necesidades y navegar sus problemas. Apoyamos en cualquier idea para crear soluciones multiplataforma. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Servicios
+- Consultoría de software
+- Desarrollo Web Empresarial
+- Desarrollo Móvil
+
+
+## Paleta de colores
+![paleta de colores](https://github.com/user-attachments/assets/bc158f9c-a668-4e47-8ce0-6d19183b16fc)
