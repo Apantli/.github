@@ -1,8 +1,6 @@
 # Apantli
 *Adaptabilidad que fluye*
 
-<img src="https://github.com/user-attachments/assets/789f5dcc-95de-4128-acc0-7805bda5032c" height=200 />
-
 ## Sobre nosotros
 Somos una empresa especializada en construcción de soluciones de software. Ayudamos a nuestros clientes poner a flote sus ideas, al sumergirnos en sus necesidades y navegar sus problemas. Apoyamos en cualquier idea para crear soluciones multiplataforma. 
 
