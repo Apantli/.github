@@ -1,5 +1,5 @@
 # Apantli
-*Adaptabilidad en cada gota*
+*Adaptabilidad que fluye*
 
 <img src="https://github.com/user-attachments/assets/789f5dcc-95de-4128-acc0-7805bda5032c" height=200 />
 
