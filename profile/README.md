@@ -9,6 +9,11 @@ Somos una empresa especializada en construcción de soluciones de software. Ayud
 - Desarrollo Web Empresarial
 - Desarrollo Móvil
 
+## Misión
+Brindar soluciones de software innovadoras y adaptables que impulsen el crecimiento de nuestros clientes, sumergiéndonos en sus necesidades para desarrollar productos multiplataforma eficientes y de alta calidad.
+
+## Visión
+Ser un referente en el desarrollo de software a nivel global, destacando por nuestra capacidad de adaptación, innovación y compromiso con la excelencia, ayudando a empresas y emprendedores a materializar sus ideas en soluciones tecnológicas impactantes.
 
 ## Paleta de colores
 <img src="https://github.com/user-attachments/assets/6600aaaa-6664-438f-a6a6-917986678331" height=200 />
