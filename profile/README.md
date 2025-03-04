@@ -17,3 +17,6 @@ Ser un referente en el desarrollo de software a nivel global, destacando por nue
 
 ## Paleta de colores
 <img src="https://github.com/user-attachments/assets/6600aaaa-6664-438f-a6a6-917986678331" height=200 />
+
+## Links:
+Criterios de terminado del proyecto: [link](https://github.com/Apantli/.github/blob/main/profile/criterios_de_terminado.md)
