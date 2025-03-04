@@ -1,10 +1,9 @@
 [Regresar a página principal](https://github.com/Apantli/.github/blob/main/profile/README.md)
 
 # Criterios de terminado
-- El código debe cumplir los casos de prueba establecidos
-- No puede haber errores de ortografia
-- Los componentes deben de tener paleta de colores
-- Mantener la documentación actualizada cuando se realicen cambios a funcionalidades principales
+- El código debe pasar los casos de prueba establecidos
+- La interfaz no debe de contener errores de ortografía
+- Las pantallas deben de seguir la paleta de colores definida
+- La documentación debe de estar actualizada con las funcionalidades desarrolladas
 - Mantener el repositorio actualizado con el código realizado
-- Se realizan Code Reviews de todo código que se una con la rama de trabajo main
-- Mantener actualizado el sprint backlog
+- Cada rama unida a la rama main debe de tener un code review
