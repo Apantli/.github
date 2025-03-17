@@ -7,3 +7,4 @@
 - La documentación debe de estar actualizada con las funcionalidades desarrolladas
 - Mantener el repositorio actualizado con el código realizado
 - Cada rama unida a la rama main debe de tener un code review
+- Los nombres de las variables deben de estar en inglés
